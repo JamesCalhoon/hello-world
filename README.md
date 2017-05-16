@@ -16,3 +16,5 @@ I am also a huge nerd that probably knows way too much about the Transformers fr
 
 #5: For example, if I want this to appear as a list and not a giant paragraph, I have to have a break between each line.
 
+#6: I am actually glad that I am taking this class this semester.
+
