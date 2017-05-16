@@ -43,3 +43,5 @@ I am also a huge nerd that probably knows way too much about the Transformers fr
 #18: Unfortunately, I left my old Nintendo 64 back at home.
 
 #19: Which is a bit of a shame really because the Nintendo 64 was a great, classic system.
+
+#20: It had a ton of great games on it besides just Pokemon Snap like:
