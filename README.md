@@ -35,3 +35,5 @@ I am also a huge nerd that probably knows way too much about the Transformers fr
 #14: I probably shouldn't have changed my major, but I can't stand being graded on Creative Writing where there are expectations put on something that should be inherently subjective.
 
 #15: Woo! Half-way there!
+
+#16: Also, is there some kind of spell-check on GitHub? I realized that might be an issue while typing "inherently" in #13.
