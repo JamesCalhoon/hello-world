@@ -54,4 +54,6 @@ I am also a huge nerd that probably knows way too much about the Transformers fr
 
 #24: The Legend of Zelda Ocarina of Time & Majora's Mask
 
-#25: Mario Party 1, 2, and 3.
+#25: Mario Party 1, 2, and 3. 
+
+#26 Star Wars: Shadows of the Empire & Rogue Squadron
