@@ -59,3 +59,5 @@ I am also a huge nerd that probably knows way too much about the Transformers fr
 #26: Star Wars: Shadows of the Empire & Rogue Squadron
 
 #27: Banjo Kazooie and Tooie.
+
+#28: Perfect Dark and Golden Eye
