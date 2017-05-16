@@ -7,6 +7,12 @@ I am also a huge nerd that probably knows way too much about the Transformers fr
 30 Commits Assignment
 
 #1: It is a lovely day outside.
+
 #2: I am listening to the Pokemon Snap OST while doing this assignment.
+
 #3: I am also doing some laundrey while working on this assignment.
+
 #4: I am also trying to figure out some of the GitHub formatting while doing this.
+
+#5: For example, if I want this to appear as a list and not a giant paragraph, I have to have a break between each line.
+
