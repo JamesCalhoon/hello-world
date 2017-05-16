@@ -23,3 +23,5 @@ I am also a huge nerd that probably knows way too much about the Transformers fr
 #8: At least Prof. Romrell knows what he is doing and can explain things easier.
 
 #9: I'm also glad that I am taking this class in the Summer semester.
+
+#10: It means that I can pour all of my attention and effort into this class instead of balancing it between four other classes.
