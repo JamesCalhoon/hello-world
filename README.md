@@ -39,3 +39,5 @@ I am also a huge nerd that probably knows way too much about the Transformers fr
 #16: Also, is there some kind of spell-check on GitHub? I realized that might be an issue while typing "inherently" in #13.
 
 #17: Man, listening to this OST really makes me want to play Pokemon Snap again.
+
+#18: Unfortunately, I left my old Nintendo 64 back at home.
