@@ -21,3 +21,5 @@ I am also a huge nerd that probably knows way too much about the Transformers fr
 #7: I tried taking it last semester, but it was clear that the teacher was either new or had no idea what he was doing.
 
 #8: At least Prof. Romrell knows what he is doing and can explain things easier.
+
+#9: I'm also glad that I am taking this class in the Summer semester.
