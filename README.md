@@ -53,3 +53,5 @@ I am also a huge nerd that probably knows way too much about the Transformers fr
 #23: Star Fox 64
 
 #24: The Legend of Zelda Ocarina of Time & Majora's Mask
+
+#25: Mario Party 1, 2, and 3.
