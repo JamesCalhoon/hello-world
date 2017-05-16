@@ -18,3 +18,4 @@ I am also a huge nerd that probably knows way too much about the Transformers fr
 
 #6: I am actually glad that I am taking this class this semester.
 
+#7: I tried taking it last semester, but it was clear that the teacher was either new or had no idea what he was doing.
