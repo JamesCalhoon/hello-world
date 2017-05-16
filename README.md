@@ -47,3 +47,5 @@ I am also a huge nerd that probably knows way too much about the Transformers fr
 #20: It had a ton of great games on it besides just Pokemon Snap like:
 
 #21: Super Mario 64
+
+#22: Pokemon Stadium
