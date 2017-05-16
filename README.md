@@ -7,3 +7,4 @@ I am also a huge nerd that probably knows way too much about the Transformers fr
 30 Commits Assignment
 
 #1: It is a lovely day outside.
+#2: I am listening to the Pokemon Snap OST while doing this assignment.
