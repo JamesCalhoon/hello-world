@@ -27,3 +27,5 @@ I am also a huge nerd that probably knows way too much about the Transformers fr
 #10: It means that I can pour all of my attention and effort into this class instead of balancing it between four other classes.
 
 #11: I wish that I could do that with all of my classes.
+
+#12: But FASFA really doesn't like the one or two classes per semester approach.
