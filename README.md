@@ -33,3 +33,5 @@ I am also a huge nerd that probably knows way too much about the Transformers fr
 #13: Plus, I've already been in college for way too long.
 
 #14: I probably shouldn't have changed my major, but I can't stand being graded on Creative Writing where there are expectations put on something that should be inherently subjective.
+
+#15: Woo! Half-way there!
